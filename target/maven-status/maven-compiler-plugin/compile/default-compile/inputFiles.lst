@@ -1,122 +1,122 @@
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\lazy\impl\GenericLazyDBDataModelImpl.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\controller\ViewController.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\lazy\HasDBActions.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\controller\AdminDebugController.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\controller\MessagesController.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\controller\AdminUtilisateursController.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\controller\AdminAgencesController.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\controller\AdminRolesController.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\entity\PermissionRole.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\dao\DaoImpl.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\security\ShiroSecuredInterceptor.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\lazy\impl\GenericLazyCollectionDataModelImpl.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\controller\ViewManagerController.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\security\ShiroSecured.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\service\impl\IhmServiceImpl.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\service\impl\UtilisateurServiceImpl.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\entity\Ihm.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\controller\ext\FilterableExps.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\dao\PersistenceUtil.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\entity\Operation.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\dao\AgenceDao.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\dao\Dao.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\dao\OperateurSql.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\dao\PermissionRoleDao.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\service\RoleService.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\lazy\GenericLazyDBDataModelWithTempData.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\controller\AdminJournalController.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\entity\Permission.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\business\presentation\validator\MontantValidator.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\entity\Session.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\service\RoleUtilisateurService.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\service\ServiceImpl.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\dao\ext\JournalActivitesViewDao.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\controller\AdminParametresController.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\service\UtilisateurService.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\controller\ViewControllerImpl.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\service\IhmService.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\reflect\ReflectUtils.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\service\impl\ParametreAgenceServiceImpl.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\service\impl\ext\JournalActivitesViewServiceImpl.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\entity\ParametreAgence.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\dao\PermissionUtilisateurDao.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\dao\IhmDao.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\lazy\GenericLazyCollectionDataModel.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\service\AdminServiceImpl.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\lazy\impl\ext\StringLazyDBDataModelImpl.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\io\FileUtils.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\service\impl\PermissionUtilisateurServiceImpl.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\entity\PermissionRolePK.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\service\SessionService.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\service\impl\ActiviteServiceImpl.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\lazy\GenericLazyCollectionDataModelWithTempData.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\security\FacesAjaxAwareUserFilter.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\service\PermissionRoleService.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\entity\PermissionUtilisateurPK.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\service\impl\ParametreServiceImpl.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\lazy\AppLazyDataModelFactory.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\service\Service.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\misc\DateFactory.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\service\ParametreService.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\dao\ActiviteDao.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\dao\AdminDaoImpl.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\service\impl\PermissionServiceImpl.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\service\impl\PermissionRoleServiceImpl.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\business\presentation\validator\RequiredValidator.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\lazy\LazySorter.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\dao\exception\ValidationException.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\entity\Activite.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\lazy\LazyTaskUtils.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\business\presentation\validator\MontantSupZValidator.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\entity\RoleUtilisateurPK.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\lazy\GenericLazyDBDataModel.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\misc\MessagesFactory.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\lazy\impl\GenericLazyCollectionDataModelWithTempDataImpl.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\entity\Agence.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\service\PermissionService.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\lazy\component\LazySelectOneMenuComponentManager.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\dao\PermissionDao.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\lazy\impl\GenericLazyServiceDataModelImpl.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\lazy\HasTempData.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\security\EntityRealm.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\lazy\GenericLazyDataModel.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\lazy\GenericLazyServiceDataModel.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\service\impl\SessionServiceImpl.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\lazy\GenericLazyServiceDataModelWithTempData.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\service\AgenceService.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\entity\RoleUtilisateur.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\entity\Utilisateur.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\entity\ParametreAgencePK.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\service\impl\RoleServiceImpl.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\service\ActiviteService.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\lazy\impl\GenericLazyServiceDataModelWithTempDataImpl.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\licence\AppLicencesManager.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\dao\ParametreDao.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\dao\RoleUtilisateurDao.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\dao\SessionDao.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\service\ParametreAgenceService.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\lazy\impl\GenericLazyDBDataModelWithTempDataImpl.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\misc\MavenPropertiesReader.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\dao\RoleDao.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\controller\AutresPasswordChangeController.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\controller\ParametreController.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\controller\NoViewDefinedException.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\dao\DateElement.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\misc\PropertiesReader.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\report\controller\ReportController.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\service\impl\RoleUtilisateurServiceImpl.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\entity\Role.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\controller\SessionController.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\business\presentation\validator\QteValidator.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\dao\exception\NoResultException.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\entity\PermissionUtilisateur.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\dao\Critere.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\entity\view\JournalActivitesView.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\service\PermissionUtilisateurService.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\lazy\impl\GenericLazyDataModelImpl.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\dao\UtilisateurDao.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\service\ext\JournalActivitesViewService.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\service\impl\AgenceServiceImpl.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\dao\ParametreAgenceDao.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\admin\entity\Parametre.java
-D:\_Master\Master 2\J2EE_AVANCE\TP\Test\src\main\java\com\esgis\jee\model\infra\lazy\component\AppLazyComponentFactory.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\controller\MessagesController.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\dao\AgenceDao.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\entity\ParametreAgence.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\security\ShiroSecuredInterceptor.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\service\impl\SessionServiceImpl.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\lazy\impl\ext\StringLazyDBDataModelImpl.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\lazy\LazySorter.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\misc\MavenPropertiesReader.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\dao\ActiviteDao.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\dao\Critere.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\dao\ParametreAgenceDao.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\dao\PermissionRoleDao.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\misc\PropertiesReader.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\entity\Activite.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\business\presentation\validator\MontantValidator.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\controller\AdminUtilisateursController.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\service\impl\ParametreAgenceServiceImpl.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\lazy\impl\GenericLazyServiceDataModelImpl.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\controller\AdminJournalController.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\dao\ext\JournalActivitesViewDao.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\controller\AdminParametresController.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\lazy\GenericLazyCollectionDataModelWithTempData.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\controller\ext\FilterableExps.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\entity\PermissionRole.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\dao\ParametreDao.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\controller\ParametreController.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\controller\AdminAgencesController.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\lazy\impl\GenericLazyDataModelImpl.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\lazy\impl\GenericLazyCollectionDataModelImpl.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\service\impl\RoleServiceImpl.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\service\IhmService.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\security\FacesAjaxAwareUserFilter.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\dao\DateElement.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\lazy\GenericLazyDataModel.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\service\impl\PermissionServiceImpl.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\misc\MessagesFactory.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\dao\PermissionUtilisateurDao.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\service\impl\ext\JournalActivitesViewServiceImpl.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\lazy\HasDBActions.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\service\AgenceService.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\lazy\impl\GenericLazyCollectionDataModelWithTempDataImpl.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\entity\Role.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\dao\exception\ValidationException.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\service\ParametreService.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\licence\AppLicencesManager.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\security\EntityRealm.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\lazy\impl\GenericLazyServiceDataModelWithTempDataImpl.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\service\PermissionService.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\service\impl\PermissionUtilisateurServiceImpl.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\lazy\HasTempData.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\dao\PermissionDao.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\dao\Dao.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\service\ParametreAgenceService.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\lazy\AppLazyDataModelFactory.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\service\RoleUtilisateurService.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\service\ServiceImpl.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\entity\Parametre.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\entity\view\JournalActivitesView.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\dao\DaoImpl.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\service\UtilisateurService.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\entity\Session.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\misc\DateFactory.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\service\Service.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\service\impl\AgenceServiceImpl.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\controller\AdminDebugController.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\lazy\LazyTaskUtils.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\controller\SessionController.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\reflect\ReflectUtils.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\report\controller\ReportController.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\entity\RoleUtilisateur.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\service\impl\PermissionRoleServiceImpl.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\lazy\impl\GenericLazyDBDataModelImpl.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\lazy\GenericLazyServiceDataModelWithTempData.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\entity\Permission.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\io\FileUtils.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\service\impl\ParametreServiceImpl.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\controller\AutresPasswordChangeController.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\lazy\GenericLazyDBDataModelWithTempData.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\business\presentation\validator\RequiredValidator.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\service\ActiviteService.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\entity\Agence.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\service\impl\ActiviteServiceImpl.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\entity\Ihm.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\dao\IhmDao.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\lazy\impl\GenericLazyDBDataModelWithTempDataImpl.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\service\SessionService.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\dao\UtilisateurDao.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\lazy\component\AppLazyComponentFactory.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\entity\Operation.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\service\impl\IhmServiceImpl.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\service\ext\JournalActivitesViewService.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\service\impl\RoleUtilisateurServiceImpl.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\service\PermissionRoleService.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\controller\ViewControllerImpl.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\controller\ViewManagerController.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\dao\exception\NoResultException.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\service\PermissionUtilisateurService.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\business\presentation\validator\MontantSupZValidator.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\entity\RoleUtilisateurPK.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\entity\PermissionRolePK.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\entity\PermissionUtilisateurPK.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\dao\RoleDao.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\business\presentation\validator\QteValidator.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\lazy\GenericLazyDBDataModel.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\entity\ParametreAgencePK.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\dao\SessionDao.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\dao\OperateurSql.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\lazy\GenericLazyServiceDataModel.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\entity\Utilisateur.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\controller\NoViewDefinedException.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\controller\AdminRolesController.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\service\RoleService.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\controller\ViewController.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\dao\AdminDaoImpl.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\security\ShiroSecured.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\lazy\GenericLazyCollectionDataModel.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\lazy\component\LazySelectOneMenuComponentManager.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\dao\RoleUtilisateurDao.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\entity\PermissionUtilisateur.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\dao\PersistenceUtil.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\infra\service\AdminServiceImpl.java
+C:\Users\tlegu\OneDrive\Documents\tagg\transport-admin\src\main\java\com\esgis\jee\model\admin\service\impl\UtilisateurServiceImpl.java
