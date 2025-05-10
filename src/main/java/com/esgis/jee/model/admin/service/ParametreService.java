@@ -40,6 +40,6 @@ public interface ParametreService extends Service<Parametre, String> {
     public static String CODE_ARMOIRIE = "ARMOIRIE";
     public static String CODE_ETAT = "ETAT";
     
-    public static int LONGUEUR_MAX_MDP = 30;
+    public static int LONGUEUR_MAX_MDP = 32;
     
 }
